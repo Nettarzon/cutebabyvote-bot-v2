@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "cutebabyvote-bot-fixed",
+=======
+  "name": "cutebabyvote-bot",
+>>>>>>> ee95a4dbb3d14a0270a4858a75452f0af4a1139c
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,4 +12,8 @@
   "dependencies": {
     "puppeteer": "^21.3.8"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ee95a4dbb3d14a0270a4858a75452f0af4a1139c
